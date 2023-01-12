@@ -13,5 +13,5 @@
       optim.SGD(params, lr=0.01,momentum=0.9, weight_decay=0.0005)
            
 2-1. 추가로 그동안 학습했던 모델별 하이퍼파라미터와 성능 간략히 적어주시면 더 좋습니다!
- 1.FastRCNN = optim.SGD(params, lr=0.01,momentum=0.9, weight_decay=0.0005),
+      1.FastRCNN = optim.SGD(params, lr=0.01,momentum=0.9, weight_decay=0.0005),
                                                 epoch = 10 = Epoch loss: 0.138
