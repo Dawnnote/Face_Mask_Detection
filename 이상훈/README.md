@@ -18,7 +18,7 @@
       Q5) 중요 하이퍼파라미터 어떻게 설정했는지? 이유?
            (배치사이즈(batch size), 에폭(epoch), 학습률(learning rate) 등)
       
-      batch size = 4, epoch = 10, optim.SGD(params, lr=0.01,momentum=0.9, weight_decay=0.0005)
+       1.batch size = 4, epoch = 10, optim.SGD(params, lr=0.01,momentum=0.9, weight_decay=0.0005)
            
 2-1. 추가로 그동안 학습했던 모델별 하이퍼파라미터와 성능 간략히 적어주시면 더 좋습니다!
       
