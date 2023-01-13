@@ -8,7 +8,7 @@ YOLOv8의 optimizer 기본 설정값은 SGD입니다.
 
 1. YOLOv7 (batch size 16, epoch 100) : mAP 0.802
 2. YOLOv8 (batch size 16, epoch 50) : mAP 0.752
-3. RetinaNet mmdetection(batch size 32, epoch 12) : mAP: 0.453
+3. RetinaNet mmdetection(batch size 32, epoch 12) : mAP: 0.685
 
 <hr/>
 
