@@ -1,6 +1,6 @@
 # README
 모든 모델들의 learning rate는 기본 설정값인 0.01, image size는 640입니다.  
-YOLOv7은 기본적으로 momentum 값이 설정되어있습니다. 
+YOLOv7은 기본적으로 momentum=0.937, weight_decay=0.0005이 설정되어있습니다.  
 YOLOv8의 optimizer 기본 설정값은 SGD입니다.
 
 <hr/>
